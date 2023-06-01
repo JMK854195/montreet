@@ -86,20 +86,20 @@
         "type": "header",
         "settings": {
           "main_menu_link_list": "main-menu",
-          "logo": "shopify:\/\/shop_images\/montreet_blue_aaf392cb-c535-48fd-94c1-7f19354b1992.png",
-          "logo-inverted": "shopify:\/\/shop_images\/montreet_logo_white.png",
-          "desktop_logo_width": 200,
+          "logo": "shopify:\/\/shop_images\/BlackAngellane.png",
+          "logo-inverted": "shopify:\/\/shop_images\/color_logo_transparent_2.svg",
+          "desktop_logo_width": 230,
           "mobile_logo_width": 140,
           "main_menu_alignment": "left-center",
           "header_style": "sticky",
           "sticky_index": true,
           "sticky_collection": false,
-          "type_navigation_size": 15,
-          "type_navigation_style": false,
-          "show_announcement": true,
+          "type_navigation_size": 16,
+          "type_navigation_style": true,
+          "show_announcement": false,
           "announcement_text": "Meet me Baby | Miete jetzt deine Lieblingsjacke",
           "announcement_link": "shopify:\/\/pages\/rental-services",
-          "announcement_closable": true
+          "announcement_closable": false
         }
       },
       "footer": {
@@ -108,7 +108,6 @@
           "943c2608-f67a-4d7f-82c6-3033be1d9781": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/logo_black_3c5e6814-6ce7-4d7f-bda7-e0c52c393e68.png",
               "desktop_logo_height": 94,
               "container_width": 25
             }
@@ -117,7 +116,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer-menu-nachhaltigkeit",
+              "menu": "",
               "container_width": 25
             }
           },
@@ -185,7 +184,6 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/455926697_441754.jpg",
               "image_width": 650,
               "title": "FAQs",
               "text": "<p>Du hast offene Fragen zu MONTREET, unseren Produkten oder deiner Bestellung? In unseren FAQs beantworten wir die meistgestellten Fragen.<\/p>",
@@ -197,7 +195,6 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/DSC_0291_2.jpg",
               "image_width": 650,
               "title": "Visit Us",
               "text": "<p>Du willst unsere Produkte in einem Geschäft in deiner Stadt kaufen? Kein Problem, besuche unsere Jacken und Leggings in diesen Geschäften. <\/p>",
@@ -209,7 +206,6 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/A7R03162_HD_003_a1c2b259-2a65-40ae-80cb-3624493722aa.jpg",
               "image_width": 650,
               "title": "Unser Blog",
               "text": "<p>Du willst noch mehr zu unseren Produkten, Materialien oder Werten wissen? Lies dazu in unserem Blog nach. <\/p>",
@@ -396,15 +392,7 @@
       "1611155835d88d6982",
       "1611152784a643eebd",
       "16122019795e656ba9"
-    ],
-    "blocks": {
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Classic": {

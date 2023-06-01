@@ -18,6 +18,7 @@
         },
         "ca7cfaf9-8578-4ce6-916a-98c2eeafdbbe": {
           "type": "text-and-image",
+          "disabled": true,
           "settings": {
             "title": "VELLO BIKE | Showroom",
             "text": "<p><a href=\"https:\/\/vello.bike\" title=\"https:\/\/vello.bike\">VELLO BIKE<\/a> – transparent, nachhaltig und zukunftsorientiert.<\/p><p>Im Showroom von Vello Bike findest du neben, dem berühmten Klapprad auch Freitag Taschen, Fahrrradschlösser, Helme und unsere Jacken. Also alles was du für einen Radausflug brauchst.  <\/p><p><strong>Adresse:<\/strong><\/p><p>Reinprechtsdorfer Str. 58, 1050 Wien, Österreich <\/p><p><strong>Öffnungszeiten:<\/strong><\/p><p>Di - Fr: 10:30 - 18:30 Uhr<\/p>"
@@ -25,9 +26,10 @@
         },
         "a2907167-56a7-49e6-9ef3-0fb03066cebd": {
           "type": "text-and-image",
+          "disabled": true,
           "settings": {
             "title": "Haltern Unverpackt",
-            "text": "<p>Der erste <a href=\"http:\/\/haltern-unverpackt.com\/\" target=\"_blank\" title=\"http:\/\/haltern-unverpackt.com\/\">Unverpackt Laden<\/a> in Haltern am See, hat nun auch MONTREET*Produkte. Dort könnt ihr biologische und\/ oder nachhaltig produzierte Waren des täglichen Bedarfs einkaufen plastikfrei, ohne lästige und umweltschädliche Verpackungen. <\/p><p><strong>Adresse:<\/strong><\/p><p>Gantepoth 7 in Haltern am See, Deutschland<\/p><p><strong>Öffnungszeiten:<\/strong><\/p><p>Mo, Mi & Do: 10 – 18 Uhr<br\/>Di & Fr : 09 – 18 Uhr                          Sa: 10 - 14 Uhr<\/p><p><\/p>"
+            "text": ""
           }
         }
       },

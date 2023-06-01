@@ -179,7 +179,7 @@
               "enable_image": true,
               "image_width": 650,
               "title": "FAQs",
-              "text": "<p>Du hast offene Fragen zu MONTREET, unseren Produkten oder deiner Bestellung? In unseren FAQs beantworten wir die meistgestellten Fragen.<\/p>",
+              "text": "<p>Create FAQ Section<\/p>",
               "button_label": "Zu den FAQs",
               "button_link": "shopify:\/\/pages\/faqs"
             }
@@ -190,7 +190,7 @@
               "enable_image": true,
               "image_width": 650,
               "title": "Visit Us",
-              "text": "<p>Du willst unsere Produkte in einem Geschäft in deiner Stadt kaufen? Kein Problem, besuche unsere Jacken und Leggings in diesen Geschäften. <\/p>",
+              "text": "<p>Google Map bit here<\/p>",
               "button_label": "Besuche uns",
               "button_link": "shopify:\/\/pages\/visit-us"
             }
@@ -201,7 +201,7 @@
               "enable_image": true,
               "image_width": 650,
               "title": "Unser Blog",
-              "text": "<p>Du willst noch mehr zu unseren Produkten, Materialien oder Werten wissen? Lies dazu in unserem Blog nach. <\/p>",
+              "text": "<p>Blog Link<\/p>",
               "button_label": "Blogbeiträge lesen",
               "button_link": "shopify:\/\/blogs\/news"
             }

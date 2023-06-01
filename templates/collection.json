@@ -13,7 +13,7 @@
           "settings": {
             "collection_subnav_style": "inline",
             "per_row": 5,
-            "mobile_flush_grid": false
+            "mobile_flush_grid": true
           }
         }
       },

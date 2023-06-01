@@ -61,7 +61,7 @@
     "share_facebook": true,
     "share_twitter": true,
     "share_pinterest": true,
-    "favicon": "shopify:\/\/shop_images\/logo_blue_0d1dfc04-cb47-4dba-8b84-e5ed7a3c5dbb.png",
+    "favicon": "shopify:\/\/shop_images\/angel_lane_logo.jpg",
     "show_breadcrumbs": false,
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo_black_3c5e6814-6ce7-4d7f-bda7-e0c52c393e68.png",
@@ -398,7 +398,49 @@
       "1611155835d88d6982",
       "1611152784a643eebd",
       "16122019795e656ba9"
-    ]
+    ],
+    "blocks": {
+      "2153490007123654574": {
+        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6478312753674380289": {
+        "type": "shopify:\/\/apps\/gempages-landing-page-builder\/blocks\/embed-gp-script-head\/20b379d4-1b20-474c-a6ca-665c331919f3",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11596658592240905150": {
+        "type": "shopify:\/\/apps\/gempages-landing-page-builder\/blocks\/embed-gp-script-body\/20b379d4-1b20-474c-a6ca-665c331919f3",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "8409675092115237846": {
+        "type": "shopify:\/\/apps\/customer-accounts-concierge\/blocks\/custom_forms\/3c495b68-652c-468d-a0ef-5bad6935d104",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6471712195879653093": {
+        "type": "shopify:\/\/apps\/customer-accounts-concierge\/blocks\/social_logins\/3c495b68-652c-468d-a0ef-5bad6935d104",
+        "disabled": false,
+        "settings": {
+          "position": "below",
+          "divider": true,
+          "style": "icon_and_text",
+          "text_alignment": "center",
+          "icon_alignment": "left",
+          "icon_style": "white",
+          "border_radius": 4,
+          "spacing": 8,
+          "shadow": true,
+          "custom_css": ""
+        }
+      }
+    }
   },
   "presets": {
     "Classic": {

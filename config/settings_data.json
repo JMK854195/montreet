@@ -129,8 +129,8 @@
             "type": "logo_social",
             "settings": {
               "logo": "shopify:\/\/shop_images\/Copy_of_color_logo_transparent_2_95f97b32-3e79-4cd9-b1e1-651a9d654a84.png",
-              "desktop_logo_height": 77,
-              "container_width": 45
+              "desktop_logo_height": 54,
+              "container_width": 85
             }
           }
         },

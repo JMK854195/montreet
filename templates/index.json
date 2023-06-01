@@ -6,9 +6,9 @@
         "1643557152dd165b0b-0": {
           "type": "image",
           "settings": {
-            "title": "CUSTOM Apparel and Accessories",
+            "title": "Welcome to Angel Lane Boutique",
             "title_size": 62,
-            "subheading": "BE BRAVE, BE BOLD, BE YOU",
+            "subheading": "Say goodbye to mass-produced, one-style-fits-all clothing. With [Your Brand Name], you become the designer of your wardrobe, creating pieces that truly represent your individual style",
             "link": "shopify:\/\/collections\/custom-apparel-clothing",
             "link_text": "CUSTOM RANGE",
             "text_align": "vertical-bottom horizontal-left",
@@ -105,15 +105,15 @@
     "16435588208e0c7288": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "ABOUT US",
-        "title": "WER WIR SIND",
-        "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.<\/p>",
-        "button_label": "Mehr über MONTREET",
+        "subtitle": "Join the",
+        "title": "ALB Community",
+        "text": "<p>We believe in the power of community. Join us on Instagram to get style inspiration from fellow Angel Lane Boutique enthusiasts, share your own designs with #YourBrandStyle, and be the first to hear about exciting news and exclusive offers. Together, we're redefining fashion.<\/p>",
+        "button_label": "",
         "button_link": "shopify:\/\/pages\/our-story",
         "image": "shopify:\/\/shop_images\/IMG_0416.jpg",
         "focal_point": "center",
         "layout": "right",
-        "height": 550,
+        "height": 650,
         "parallax": true
       }
     },
@@ -123,11 +123,19 @@
         "16435590232351b4c3-0": {
           "type": "heading",
           "settings": {
-            "title": "Unser Versprechen"
+            "title": "Create Your Unique Style-"
+          }
+        },
+        "f4d74355-1ebe-41c6-8572-d2f7561651de": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Explore our wide range of high-quality basics, and let your imagination run wild. Choose from an array of colors, fabrics, and cuts, then add your personal touch with customizable details. From bold patterns to subtle accents, create a look that's completely your own.<\/p>"
           }
         },
         "16435590232351b4c3-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "enlarge_text": false,
             "text": "<p>Wir verbinden <strong>ehrliche Outdoor Mode<\/strong> mit <strong>einzigartigem Design<\/strong>. Dabei greifen wir ausschließlich auf <strong>umweltschonende Materialien<\/strong> zurück und legen Wert auf eine <strong>faire Produktion<\/strong> in <strong>Europa<\/strong>.<\/p>"
@@ -136,6 +144,7 @@
       },
       "block_order": [
         "16435590232351b4c3-0",
+        "f4d74355-1ebe-41c6-8572-d2f7561651de",
         "16435590232351b4c3-1"
       ],
       "settings": {

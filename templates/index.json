@@ -12,8 +12,7 @@
             "link": "shopify:\/\/collections\/sommer-outfits",
             "link_text": "Produkte entdecken",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/P7251128.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/DSC_0242.jpg",
+            "image": "shopify:\/\/shop_images\/angel_lane_logo.jpg",
             "overlay_opacity": 18,
             "focal_point": "center center"
           }
@@ -28,8 +27,6 @@
             "link": "shopify:\/\/collections\/jackets",
             "link_text": "jetzt gönnen",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Freiseindesign_Friederike_Franze_MONTREET-3115_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/IMG_6052-2.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -44,8 +41,6 @@
             "link": "shopify:\/\/collections\/sommer-outfits",
             "link_text": "Jetzt shoppen",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Freiseindesign_Friederike_Franze_MONTREET-2885-min.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Freiseindesign_Friederike_Franze_MONTREET-2819-min.jpg",
             "overlay_opacity": 16,
             "focal_point": "top center"
           }
@@ -60,8 +55,6 @@
             "link": "shopify:\/\/collections\/alle-produkte",
             "link_text": "Jetzt spenden",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/211122_MONTREET_StrongerTogetherWeek_2000x600_397234a3-35be-40fa-b210-0717882fb3ff.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/211122_MONTREET_StrongerTogetherWeek_InstagramStories_1080x1920_clean.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -76,8 +69,6 @@
             "link": "shopify:\/\/collections\/geschenke",
             "link_text": "Jetzt shoppen",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/MONTREET_Blogposts_NL_Banner_1.png",
-            "image_mobile": "shopify:\/\/shop_images\/MONTREET_Vorlage_Insta_Story_3.jpg",
             "overlay_opacity": 0,
             "focal_point": "center center"
           }
@@ -118,7 +109,6 @@
         "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.<\/p>",
         "button_label": "Mehr über MONTREET",
         "button_link": "shopify:\/\/pages\/our-story",
-        "image": "shopify:\/\/shop_images\/447817578_278666.jpg",
         "focal_point": "center",
         "layout": "right",
         "height": 550,
@@ -159,7 +149,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/ARTIST_EDITION.png",
             "image_width": 60,
             "title": "Kreativ",
             "text": "<p>Bei uns wird's nicht langweilig! <\/p><p>Mit ausgefallenen, spannenden Designs von österreichischen KünstlerInnen, bringen wir Farbe in dein Leben!<\/p>",
@@ -171,7 +160,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/RECYCLETMATERIALIEN.png",
             "image_width": 60,
             "title": "Nachhaltig",
             "text": "<p>Wir setzen alles daran, nachhaltig zu handeln und mit euch das System zu ändern. Ehrlichkeit und Transparenz stehen für uns an erster Stelle.<\/p><p>Let's make a change!<\/p>",
@@ -183,7 +171,6 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
-            "image": "shopify:\/\/shop_images\/FAIRHERGESTELLT.png",
             "image_width": 60,
             "title": "Funktional",
             "text": "<p>Unsere zeitlose Outdoor Mode sieht nicht nur lässig aus, sondern unterstützt dich auch optimal bei deinen Abenteuern - egal ob im Alltag oder in der Natur!<\/p>",
@@ -211,7 +198,6 @@
         "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".<\/p>",
         "button_label": "Zur Jacke",
         "button_link": "shopify:\/\/products\/the-climber-artist-edition",
-        "image": "shopify:\/\/shop_images\/Mariam_mit_schwarzem_Logo_Kopie.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 550,
@@ -250,7 +236,6 @@
     "1643559555ba63368b": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Montreet-12_Quadrat.jpg",
         "image_width": 500,
         "subtitle": "- Reduce - Reuse - Repair -",
         "title": "Wir reparieren deine Kleidung!",
@@ -266,7 +251,6 @@
     "1643559712b55bae47": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC_0291_3.jpg",
         "image_width": 500,
         "subtitle": "UNSER MIETSERVICE",
         "title": "Miete eine Jacke",
@@ -281,17 +265,6 @@
     },
     "1643559842a9e4ea45": {
       "type": "apps",
-      "blocks": {
-        "828ea1f9-dcfe-4000-8c41-8952c786ed27": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1800
-          }
-        }
-      },
-      "block_order": [
-        "828ea1f9-dcfe-4000-8c41-8952c786ed27"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
@@ -303,35 +276,30 @@
         "1643560045d338bc02-0": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/falterat_logo.png",
             "link": ""
           }
         },
         "1643560045d338bc02-1": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kleinezeitung_logo.png",
             "link": "https:\/\/www.kleinezeitung.at\/lebensart\/sonntag\/6026269\/Levitate-und-Montreet_Mit-Recycling-und-Pflanzenfasern-setzen"
           }
         },
         "1643560045d338bc02-2": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/textilzeitung_logo.jpg",
             "link": "https:\/\/www.textilzeitung.at\/fashion\/news\/label-to-watch-montreet-13828"
           }
         },
         "1643560045d338bc02-3": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/miss_Logo.png",
             "link": "https:\/\/mio.observer.at\/webview\/d0c6cffc-13ca-4ee7-a13a-efae0a13b068\/7128698#&gid=1&pid=1"
           }
         },
         "4a2dfa14-8fff-406a-b0f4-c9e7a47608b6": {
           "type": "logo_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KURIER_Logo.jpg",
             "link": "https:\/\/mio.observer.at\/webview\/3c7cf60c-f2f5-45e0-8c88-02754c18d270\/6713257#&gid=1&pid=1"
           }
         }
@@ -351,17 +319,6 @@
     },
     "1652437963127d181d": {
       "type": "apps",
-      "blocks": {
-        "0aa69aa3-990d-4a49-993d-ba4256751619": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "<div class=\"klaviyo-form-Yn6FFM\"><\/div>"
-          }
-        }
-      },
-      "block_order": [
-        "0aa69aa3-990d-4a49-993d-ba4256751619"
-      ],
       "settings": {
         "full_width": false,
         "space_around": false

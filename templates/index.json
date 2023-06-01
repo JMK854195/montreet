@@ -13,6 +13,7 @@
             "link_text": "Produkte entdecken",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/angel_lane_logo.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/shopify-branding-square-3FC47440-F413-4EAA-867A-DCECA050CC4E.jpg",
             "overlay_opacity": 18,
             "focal_point": "center center"
           }
@@ -96,7 +97,7 @@
         "title": "Unsere Bestseller",
         "home_featured_products": "bags",
         "per_row": 3,
-        "rows": 1,
+        "rows": 2,
         "view_all": true,
         "divider": false
       }

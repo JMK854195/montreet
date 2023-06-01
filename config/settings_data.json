@@ -1,6 +1,7 @@
 {
   "current": {
-    "color_body_text": "#0c0d49",
+    "color_body_bg": "#f0f1f3",
+    "color_body_text": "#034519",
     "color_borders": "#f0f1f3",
     "color_button": "#034519",
     "color_button_text": "#ffffff",

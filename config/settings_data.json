@@ -51,6 +51,7 @@
     "product_grid_image_fill": true,
     "quick_shop_text": "Quick view",
     "enable_swatches": true,
+    "enable_product_reviews": true,
     "cart_type": "page",
     "social_facebook_link": "https:\/\/www.facebook.com\/montreetouterwear",
     "social_pinterest_link": "https:\/\/www.pinterest.at\/montreetsportswear\/_saved\/",

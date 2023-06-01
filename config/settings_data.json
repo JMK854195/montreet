@@ -47,6 +47,7 @@
     "animate_images_style": "fade-in",
     "animate_buttons": true,
     "animate_underlines": true,
+    "product_grid_image_size": "square",
     "quick_shop_text": "Quick view",
     "enable_swatches": true,
     "cart_type": "page",

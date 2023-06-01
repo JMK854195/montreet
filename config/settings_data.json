@@ -224,7 +224,7 @@
           "footer-promotions-2"
         ],
         "settings": {
-          "hide_homepage": false,
+          "hide_homepage": true,
           "image_size": "landscape",
           "align_text": "left"
         }
@@ -232,13 +232,14 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "disabled",
-          "popup_seconds": 5,
+          "mode": "enabled",
+          "popup_seconds": 10,
           "popup_days": 30,
-          "popup_title": "10% RABATT",
-          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.&lt;\\\/p&gt;<\/p>",
+          "popup_title": "10% Off When you recommend a friend",
+          "popup_image": "shopify:\/\/shop_images\/BlackAngellane.png",
+          "popup_text": "<p>You and your friend will get 10% off next time after refferal<\/p>",
           "close_text": "No thanks",
-          "enable_newsletter": true,
+          "enable_newsletter": false,
           "button_label": "Optional button",
           "button_link": "",
           "enable_button": false

@@ -99,7 +99,7 @@
         "per_row": 3,
         "rows": 2,
         "view_all": true,
-        "divider": false
+        "divider": true
       }
     },
     "16435588208e0c7288": {
@@ -110,6 +110,7 @@
         "text": "<p>Nachhaltige Lebensweise, spannende, ausgefallene Designs und made in Europe - das ist MONTREET.<\/p>",
         "button_label": "Mehr über MONTREET",
         "button_link": "shopify:\/\/pages\/our-story",
+        "image": "shopify:\/\/shop_images\/IMG_0416.jpg",
         "focal_point": "center",
         "layout": "right",
         "height": 550,
@@ -145,6 +146,7 @@
     },
     "1643559081348e5c83": {
       "type": "text-columns",
+      "disabled": true,
       "blocks": {
         "164355908183382ea8-0": {
           "type": "text_block",
@@ -199,6 +201,7 @@
         "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".<\/p>",
         "button_label": "Zur Jacke",
         "button_link": "shopify:\/\/products\/the-climber-artist-edition",
+        "image": "shopify:\/\/shop_images\/IMG_0422.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 550,
@@ -208,12 +211,12 @@
     "1643559241eab48128": {
       "type": "collection-callout",
       "settings": {
-        "collection": "featured",
+        "collection": "local-art",
         "subtitle": "Individuelle",
         "title": "ARTIST Kollektionen",
         "text": "Erfahre mehr über unsere einzigartigen Artist Kollektionen, die in Zusammenarbeit mit Künstler*Innen aus Österreich entstehen und nur in limitierter Auflage erhältlich sind!",
         "cta_text1": "Zur Artist-Kollektion",
-        "cta_link1": "shopify:\/\/collections\/featured",
+        "cta_link1": "shopify:\/\/collections\/local-art",
         "cta_text2": "",
         "cta_link2": "",
         "layout": "right",
@@ -266,6 +269,19 @@
     },
     "1643559842a9e4ea45": {
       "type": "apps",
+      "blocks": {
+        "3e5c2cd1-027a-44b8-92aa-dd611f7f8a42": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "3e5c2cd1-027a-44b8-92aa-dd611f7f8a42"
+      ],
       "settings": {
         "full_width": false,
         "space_around": true
@@ -273,6 +289,7 @@
     },
     "164356004562a7cd17": {
       "type": "logo-list",
+      "disabled": true,
       "blocks": {
         "1643560045d338bc02-0": {
           "type": "logo_image",

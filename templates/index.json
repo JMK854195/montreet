@@ -40,34 +40,20 @@
         "autoplay_speed": 6
       }
     },
-    "16435588208e0c7288": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Join the",
-        "title": "ALB Community",
-        "text": "<p>We believe in the power of community. Join us on Instagram to get style inspiration from fellow Angel Lane Boutique enthusiasts, share your own designs with #YourBrandStyle, and be the first to hear about exciting news and exclusive offers. Together, we're redefining fashion.</p>",
-        "button_label": "",
-        "button_link": "shopify://pages/our-story",
-        "focal_point": "center",
-        "layout": "right",
-        "height": 650,
-        "parallax": true
-      }
-    },
     "164355902397d3a8e9": {
       "type": "rich-text",
       "blocks": {
         "16435590232351b4c3-0": {
           "type": "heading",
           "settings": {
-            "title": "Create Your Unique Style-"
+            "title": "Ne hagyd, hogy az aggodalom elvegye a várandósság örömét!"
           }
         },
         "f4d74355-1ebe-41c6-8572-d2f7561651de": {
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Explore our wide range of high-quality basics, and let your imagination run wild. Choose from an array of colors, fabrics, and cuts, then add your personal touch with customizable details. From bold patterns to subtle accents, create a look that's completely your own.</p>"
+            "text": "<p>Teljesen természetes, ha aggódsz a várandósság alatt – minden kismama szívében ott van a féltés. A BabyPulse abban segít, hogy gyorsan megbizonyosodj róla: kisbabád jól érzi magát az anyaméhben. Hallhatod, ha mocorog, ha csuklik, vagy egyszerűen a szíve dobogását.<br/><br/></p>"
           }
         },
         "16435590232351b4c3-1": {
@@ -142,11 +128,12 @@
     "1643559238ee358c57": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "Wir sind außerdem",
-        "title": "Gewinner des Vegan Fashion Award 2021",
-        "text": "<p>Mit unserer THE CLIMBER* Jacke in der Kategorie \"Bestes Outdoor Piece\".</p>",
-        "button_label": "Zur Jacke",
-        "button_link": "shopify://products/the-climber-artist-edition",
+        "subtitle": "BABYPULSE™",
+        "title": "Magzati szívhang hallgató",
+        "text": "<p>Megnyugvás minden napra, a legfontosabb kis életért!<br/><br/></p>",
+        "button_label": "VÁSÁRLÁS",
+        "button_link": "shopify://products/babypulse™-magzati-kezi-doppler-keszulek",
+        "image": "shopify://shop_images/14_napos_penzvisszafizetes.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 550,
@@ -155,13 +142,14 @@
     },
     "1643559241eab48128": {
       "type": "collection-callout",
+      "disabled": true,
       "settings": {
-        "collection": "local-art",
-        "subtitle": "Individuelle",
-        "title": "ARTIST Kollektionen",
+        "collection": "",
+        "subtitle": "BABYPULSE™",
+        "title": "Magzati Szívhang Hallgató",
         "text": "Erfahre mehr über unsere einzigartigen Artist Kollektionen, die in Zusammenarbeit mit Künstler*Innen aus Österreich entstehen und nur in limitierter Auflage erhältlich sind!",
-        "cta_text1": "Zur Artist-Kollektion",
-        "cta_link1": "shopify://collections/local-art",
+        "cta_text1": "VÁSÁRLÁS",
+        "cta_link1": "shopify://products/babypulse™-magzati-kezi-doppler-keszulek",
         "cta_text2": "",
         "cta_link2": "",
         "layout": "right",
@@ -170,6 +158,7 @@
     },
     "16435594846c80d8b9": {
       "type": "background-video-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Don't Change who you are",
         "title": "Just Start wearing Green",
@@ -277,7 +266,6 @@
   },
   "order": [
     "1643557152da74e53e",
-    "16435588208e0c7288",
     "164355902397d3a8e9",
     "1643559081348e5c83",
     "1643559238ee358c57",

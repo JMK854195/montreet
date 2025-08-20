@@ -110,7 +110,7 @@
         "settings": {
           "main_menu_link_list": "main-menu",
           "logo": "shopify://shop_images/Nevtelen_terv_14.jpg",
-          "desktop_logo_width": 160,
+          "desktop_logo_width": 140,
           "mobile_logo_width": 90,
           "main_menu_alignment": "left",
           "header_style": "normal",

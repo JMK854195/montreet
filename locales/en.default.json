@@ -353,5 +353,46 @@
   },
   "date_formats": {
     "month_day_year": "%b %d, %Y"
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "page_title": "Kosár",
+        "continue_button_label": "Vásárlás folytatása",
+        "complete_purchase_button_label": "Megrendelés leadása",
+        "pay_now_button_label": "Vásárlás",
+        "cart": "Kosár",
+        "continue_to_shipping_method": "Tovább a szállítás kiválasztására",
+        "continue_to_payment_method": "Tovább a fizetésre",
+        "continue_to_review": "Fizetés",
+        "back_to_cart": "Vissza a kosárba",
+        "back_to_shipping_method": "Vissza a szállításhoz",
+        "back_to_payment_method": "Vissza a fizetési módokhoz",
+        "choose_shipping_method": "Válassz szállítási módot",
+        "choose_payment_method": "Válassz fizetési módot",
+        "google_map_title": "Köszönjük a vásárlást!",
+        "confirm_order_button_label": "Megrendelés leadása",
+        "continue_to_payment_plans_button_label": "Tovább a fizetési módra",
+        "back_button_label": "Vissza",
+        "choose_delivery_strategy": "Válassz szállítási módot"
+      },
+      "contact": {
+        "address_title": "Cím",
+        "shipping_used_as_billing_notice": "A szállítási címmel megegyezik",
+        "delivery_option_title": "Szállítási mód",
+        "contact_method_title": "Kapcsolat",
+        "email_label": "E-mail cím",
+        "first_name_label": "Vezetéknév",
+        "last_name_label": "Keresztnév",
+        "address1_label": "Cím",
+        "address2_label": "emelet,ajtó",
+        "optional_address2_label": "emelet,ajtó",
+        "city_label": "Város",
+        "country_label": "Ország",
+        "country_code": "Irányítószám",
+        "county_label": "Ország",
+        "phone_label": "Telefonszám"
+      }
+    }
   }
 }

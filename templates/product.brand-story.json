@@ -22,12 +22,6 @@
             "text": "💕Folyamatos biztonságérzet                          ✅Könnyen kezelhető                                       👪Családi élmény                                           🩺Megbízható technológia"
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "is_tab": false
-          }
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -63,7 +57,7 @@
         "contact": {
           "type": "contact",
           "settings": {
-            "title": "Kérdésed van? Keress minket bizalommal!",
+            "title": "Kérdésed van?                                           Keress minket bizalommal!",
             "phone": false
           }
         },
@@ -84,7 +78,6 @@
       "block_order": [
         "price",
         "text_QcPbBY",
-        "description",
         "separator",
         "variant_picker",
         "buy_buttons",

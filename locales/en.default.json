@@ -394,6 +394,21 @@
         "phone_label": "Telefonszám",
         "postal_code_label": "Irányítószám",
         "optional_postal_code_label": "Irányítószám"
+      },
+      "delivery_options": {
+        "ship": "Szállítási módok",
+        "shipping_address": "Szállítási cím"
+      },
+      "customer_account": {
+        "save_my_information_label": "Adatok mentése a következő rendeléshez",
+        "invalid_shipping_method_summary": "Töltsd ki a szállítási címet,hogy lásd a szállítási módokat"
+      },
+      "stock": {
+        "product_column_header": "Termék",
+        "quantity_column_header": "Mennyiség",
+        "price_column_header": "Részösszeg",
+        "continue_cta_label": "Megrendelés leadása",
+        "empty_cart_label": "Az Ön kosara üres :("
       }
     }
   }

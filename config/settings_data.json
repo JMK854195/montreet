@@ -186,6 +186,7 @@
         "blocks": {
           "footer-promotions-0": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
@@ -197,6 +198,7 @@
           },
           "footer-promotions-1": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
@@ -208,6 +210,7 @@
           },
           "footer-promotions-2": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,

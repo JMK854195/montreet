@@ -391,7 +391,9 @@
         "country_label": "Ország",
         "country_code": "Irányítószám",
         "county_label": "Ország",
-        "phone_label": "Telefonszám"
+        "phone_label": "Telefonszám",
+        "postal_code_label": "Irányítószám",
+        "optional_postal_code_label": "Irányítószám"
       }
     }
   }

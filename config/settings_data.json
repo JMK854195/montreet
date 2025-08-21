@@ -1266,5 +1266,10 @@
         "1499790633921"
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product__trust-badge {display: none !important;}"
+    ]
   }
 }

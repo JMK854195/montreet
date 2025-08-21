@@ -408,7 +408,35 @@
         "quantity_column_header": "Mennyiség",
         "price_column_header": "Részösszeg",
         "continue_cta_label": "Megrendelés leadása",
-        "empty_cart_label": "Az Ön kosara üres :("
+        "empty_cart_label": "Az Ön kosara üres :(",
+        "continue_shopping_button_label": "Vásárlás folytatása",
+        "go_back_to_cart_button_label": "Vissza a kosárhoz",
+        "remove": "Eltávolítás"
+      },
+      "order_summary": {
+        "subtotal_label": "Részösszeg",
+        "shipping_label": "Szállítás",
+        "partial_total_label": "Végösszeg",
+        "price_label": "Ár",
+        "quantity_label": "Mennyiség",
+        "product_image_quantity_label": "Mennyiség"
+      },
+      "shipping": {
+        "delivery_title": "Szállítás",
+        "shipping_method_title": "Szállítási mód",
+        "address_delete": "Cím törlése",
+        "missing_shipping_address": "Hiányzó szállítási cím"
+      },
+      "payment": {
+        "title": "Fizetés",
+        "discount_button_action_label": "Írja be a kuponkódot",
+        "apply_gift_card_button_label": "Beváltás",
+        "detected_card_brand": "Bankkártya",
+        "card_number_placeholder": "Kártyaszám",
+        "card_security_notice": "Minden tranzakció biztonságos és titkosított!",
+        "name_on_card_placeholder": "Kártyán szereplő név",
+        "card_expiry_placeholder": "Lejárat dátuma  (HH/ÉÉ)",
+        "card_verification_value_placeholder": "Biztonsági kód"
       }
     }
   }

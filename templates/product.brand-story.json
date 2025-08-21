@@ -16,6 +16,12 @@
           "type": "price",
           "settings": {}
         },
+        "text_QcPbBY": {
+          "type": "text",
+          "settings": {
+            "text": "💕Folyamatos biztonságérzet                          ✅Könnyen kezelhető                                       👪Családi élmény                                               🩺Megbízható technológia"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -77,6 +83,7 @@
       },
       "block_order": [
         "price",
+        "text_QcPbBY",
         "description",
         "separator",
         "variant_picker",
